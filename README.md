@@ -81,4 +81,3 @@ The models are trained to classify the following patterns across EGX blue-chips 
 
 ---
 
-**Next Step:** Would you like me to generate a **"Project Progress Tracker"** table for the student to keep at the bottom of this README so they can mark tasks as "Complete" each Sunday?
